@@ -1,0 +1,33 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "javd:void", x: 480, y: 72, z: 209, time: 1754719351611L, xRot: 85.79996f, yRot: -68.19028f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "javd:void", x: 477, y: 78, z: 218, time: 1754559691131L, xRot: 36.749043f, yRot: -20.970581f }
+		{ dim: "minecraft:overworld", x: 649, y: 122, z: 140, time: 1754559907311L, xRot: 31.499985f, yRot: 171.45268f }
+		{ dim: "minecraft:overworld", x: 677, y: -14, z: 294, time: 1754560577646L, xRot: 13.949314f, yRot: -96.86914f }
+		{ dim: "javd:void", x: 481, y: 78, z: 221, time: 1754572970465L, xRot: 40.499912f, yRot: -36.203125f }
+		{ dim: "minecraft:overworld", x: 677, y: -24, z: 287, time: 1754573150264L, xRot: 10.799316f, yRot: 157.1955f }
+		{ dim: "minecraft:the_nether", x: 68, y: 104, z: 209, time: 1754695854228L, xRot: 35.84798f, yRot: 151.3247f }
+		{ dim: "javd:void", x: 492, y: 77, z: 218, time: 1754700822093L, xRot: 23.849382f, yRot: 159.2903f }
+		{ dim: "minecraft:overworld", x: 928, y: 61, z: 694, time: 1754701123473L, xRot: 23.849468f, yRot: 55.166992f }
+		{ dim: "javd:void", x: 482, y: 76, z: 224, time: 1754701318898L, xRot: 50.84964f, yRot: -100.49213f }
+		{ dim: "minecraft:overworld", x: 763, y: 67, z: 209, time: 1754701728766L, xRot: 16.800106f, yRot: -27.600845f }
+	]
+	homes: {
+		iron_gold_mining: { dim: "minecraft:overworld", x: 769, y: 19, z: 149, time: 1728295202587L, xRot: 15.900063f, yRot: -84.11932f }
+		nickel_mining: { dim: "minecraft:overworld", x: 727, y: 57, z: 1161, time: 1728196740154L, xRot: 18.450148f, yRot: 119.094055f }
+		void: { dim: "javd:void", x: 477, y: 72, z: 213, time: 1727828991679L, xRot: 34.49969f, yRot: 17.558125f }
+		uranium_mining: { dim: "minecraft:overworld", x: 818, y: 41, z: 772, time: 1728096578837L, xRot: 10.800419f, yRot: 67.47406f }
+		sulfur_mining: { dim: "minecraft:the_nether", x: 6, y: 36, z: 55, time: 1728631086433L, xRot: 21.448917f, yRot: 140.00955f }
+		copper_cliff: { dim: "minecraft:overworld", x: 684, y: 60, z: 454, time: 1727805665239L, xRot: 22.352736f, yRot: 152.5824f }
+		quartz_mining: { dim: "minecraft:the_nether", x: -81, y: 63, z: 120, time: 1754028659197L, xRot: 14.699577f, yRot: 156.65216f }
+		silver_mining: { dim: "minecraft:overworld", x: 731, y: 12, z: 384, time: 1727810342115L, xRot: 33.000706f, yRot: 177.44849f }
+		mud: { dim: "minecraft:overworld", x: 702, y: 63, z: 1105, time: 1754027724031L, xRot: 10.649846f, yRot: 133.97649f }
+		base: { dim: "minecraft:overworld", x: 737, y: 65, z: 263, time: 1727829010926L, xRot: 16.199583f, yRot: -8.542175f }
+	}
+	kit_use_times: { }
+}
