@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 100
-	last_login_time: 1754736399681L
+	last_login_time: 1754738743091L
 	chunks: {
 		"javd:void": [
 			{ x: 29, z: 13, time: 1754020049753L, force_loaded: 1754020055210L }
