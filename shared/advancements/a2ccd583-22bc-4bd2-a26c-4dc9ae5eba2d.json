@@ -84,12 +84,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-08-09 15:07:39 -0700",
       "minecraft:beach": "2024-09-28 23:51:33 -0700",
       "minecraft:dark_forest": "2024-10-01 15:52:08 -0700",
+      "minecraft:sparse_jungle": "2025-08-09 15:05:59 -0700",
       "minecraft:river": "2024-09-28 16:46:42 -0700",
       "minecraft:lukewarm_ocean": "2024-09-28 23:59:12 -0700",
+      "minecraft:stony_shore": "2025-08-09 15:05:43 -0700",
       "minecraft:forest": "2024-09-28 16:41:30 -0700",
       "minecraft:ocean": "2024-10-01 15:51:32 -0700",
+      "minecraft:jungle": "2025-08-09 15:05:57 -0700",
       "minecraft:deep_lukewarm_ocean": "2024-10-02 00:33:14 -0700",
       "minecraft:old_growth_birch_forest": "2024-10-01 15:51:19 -0700",
       "minecraft:savanna": "2024-09-28 16:54:58 -0700",
@@ -5975,6 +5979,102 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-08-08 18:17:16 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/card_item_nbtclear": {
+    "criteria": {
+      "has_card_item": "2025-08-09 18:55:37 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/laser_node": {
+    "criteria": {
+      "has_laser_connector": "2025-08-09 13:43:24 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/card_energy_nbtclear": {
+    "criteria": {
+      "has_card_energy": "2025-08-09 13:48:53 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-08-09 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_block": {
+    "criteria": {
+      "has_desh_block": "2025-08-09 18:01:55 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/desh_plate_from_compressing_desh_ingots": {
+    "criteria": {
+      "has_item": "2025-08-09 18:01:55 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-08-09 13:51:47 -0700"
+    },
+    "done": true
+  },
+  "laserio:grant_book": {
+    "criteria": {
+      "obtain_laser_node": "2025-08-09 13:43:29 -0700"
     },
     "done": true
   },
