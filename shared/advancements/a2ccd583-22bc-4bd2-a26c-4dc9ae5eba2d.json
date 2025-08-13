@@ -6368,15 +6368,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
+  "sophisticatedstorage:recipes/misc/backpack_advanced_void_upgrade_from_storage_advanced_void_upgrade": {
     "criteria": {
-      "has_planks": "2025-08-11 22:00:10 -0700"
+      "has_storage_upgrade": "2025-08-11 20:02:11 -0700"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-08-11 22:00:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-11 22:00:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-08-11 22:00:10 -0700"
     },
     "done": true
   },
@@ -6440,12 +6452,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/backpack_advanced_void_upgrade_from_storage_advanced_void_upgrade": {
-    "criteria": {
-      "has_storage_upgrade": "2025-08-11 20:02:11 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-11 22:00:10 -0700"
@@ -6461,12 +6467,6 @@
   "sophisticatedstorage:recipes/misc/cherry_barrel": {
     "criteria": {
       "has_cherry_plank": "2025-08-11 22:00:10 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-08-11 22:00:02 -0700"
     },
     "done": true
   },
