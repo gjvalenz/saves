@@ -6488,5 +6488,11 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-08-14 18:08:36 -0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
