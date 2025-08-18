@@ -6945,12 +6945,6 @@
     },
     "done": true
   },
-  "enderio:place_capacitor_bank": {
-    "criteria": {
-      "place_capacitor_bank": "2025-08-16 21:20:49 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-16 20:48:07 -0700"
@@ -6960,6 +6954,360 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-16 20:48:07 -0700"
+    },
+    "done": true
+  },
+  "enderio:place_capacitor_bank": {
+    "criteria": {
+      "place_capacitor_bank": "2025-08-16 21:20:49 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-17 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/decoration_table": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-17 16:56:07 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-17 16:56:07 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-17 16:56:07 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-17 16:56:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-17 20:56:35 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_wall": {
+    "criteria": {
+      "has_item": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_logic_processor": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/mega_crafting_unit": {
+    "criteria": {
+      "has_logic_processor": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_glass": {
+    "criteria": {
+      "has_item": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-08-17 21:41:56 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/import_bus": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-17 21:43:37 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt2": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-17 21:43:37 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-17 21:43:37 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/molecular_assembler": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-17 21:43:37 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-17 21:43:37 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-17 21:43:37 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/export_bus": {
+    "criteria": {
+      "has_formation_core": "2025-08-17 21:43:42 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/matter_cannon": {
+    "criteria": {
+      "has_formation_core": "2025-08-17 21:43:42 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane_alt": {
+    "criteria": {
+      "has_formation_core": "2025-08-17 21:43:42 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_color_applicator": {
+    "criteria": {
+      "has_formation_core": "2025-08-17 21:43:42 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane": {
+    "criteria": {
+      "has_formation_core": "2025-08-17 21:43:42 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface_part": {
+    "criteria": {
+      "has_pattern_provider": "2025-08-17 22:57:41 -0700"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/network/mega_pattern_provider": {
+    "criteria": {
+      "has_pattern_provider": "2025-08-17 22:57:41 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_access": {
+    "criteria": {
+      "has_pattern_provider": "2025-08-17 22:57:41 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "merequester:recipes/requester": {
+    "criteria": {
+      "has_item": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/controller": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-17 23:30:55 -0700"
+    },
+    "done": true
+  },
+  "fulleng:recipes/misc/terminals/part_pattern_encoding_terminal_from_block": {
+    "criteria": {
+      "has_pattern_encoding_terminal": "2025-08-17 23:31:31 -0700"
+    },
+    "done": true
+  },
+  "fulleng:recipes/misc/terminals/block_pattern_encoding_terminal_from_part": {
+    "criteria": {
+      "has_pattern_encoding_terminal": "2025-08-17 23:31:31 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-08-17 23:31:31 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/patterns_blank": {
+    "criteria": {
+      "has_pattern_encoding_terminal": "2025-08-17 23:31:31 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/256k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/1k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/16k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/4k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/64k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_monitor": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_accelerator": {
+    "criteria": {
+      "has_crafting_unit": "2025-08-17 23:49:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
+    "criteria": {
+      "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
+    "criteria": {
+      "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
+    "criteria": {
+      "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
+    "criteria": {
+      "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2025-08-18 00:30:28 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
+    "criteria": {
+      "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
     },
     "done": true
   },
