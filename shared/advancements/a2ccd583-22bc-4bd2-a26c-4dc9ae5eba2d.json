@@ -7275,6 +7275,12 @@
     },
     "done": true
   },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2025-08-18 00:30:28 -0700"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
     "criteria": {
       "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
@@ -7299,15 +7305,39 @@
     },
     "done": true
   },
-  "ae2:main/network1": {
-    "criteria": {
-      "cable": "2025-08-18 00:30:28 -0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
     "criteria": {
       "has_fluid_cell_housing": "2025-08-18 03:42:22 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardredstone": {
+    "criteria": {
+      "has_basic_card": "2025-08-19 01:53:02 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardcrafting": {
+    "criteria": {
+      "has_basic_card": "2025-08-19 01:53:02 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardvoid": {
+    "criteria": {
+      "has_basic_card": "2025-08-19 01:53:02 -0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_upgrade": {
+    "criteria": {
+      "has_item": "2025-08-19 01:54:06 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardcapacity": {
+    "criteria": {
+      "has_basic_card": "2025-08-19 01:53:02 -0700"
     },
     "done": true
   },
