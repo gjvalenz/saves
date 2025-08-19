@@ -7329,15 +7329,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/cardcapacity": {
+    "criteria": {
+      "has_basic_card": "2025-08-19 01:53:02 -0700"
+    },
+    "done": true
+  },
   "expatternprovider:recipes/misc/epp_upgrade": {
     "criteria": {
       "has_item": "2025-08-19 01:54:06 -0700"
     },
     "done": true
   },
-  "ae2:recipes/misc/materials/cardcapacity": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_basic_card": "2025-08-19 01:53:02 -0700"
+      "has_chorus_fruit": "2025-08-19 14:37:43 -0700"
     },
     "done": true
   },
