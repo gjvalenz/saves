@@ -4166,9 +4166,10 @@
       "minecraft:crimson_forest": "2025-08-02 04:27:15 -0700",
       "minecraft:soul_sand_valley": "2024-10-07 02:17:05 -0700",
       "minecraft:nether_wastes": "2024-10-11 00:03:53 -0700",
-      "minecraft:basalt_deltas": "2024-10-11 00:04:30 -0700"
+      "minecraft:basalt_deltas": "2024-10-11 00:04:30 -0700",
+      "minecraft:warped_forest": "2025-08-20 04:18:54 -0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
@@ -7344,6 +7345,42 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-08-19 14:37:43 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-08-19 20:52:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_platinum_raw": {
+    "criteria": {
+      "has_ore": "2025-08-20 03:44:05 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/cable_anchor": {
+    "criteria": {
+      "has_knife": "2025-08-19 20:51:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-19 22:12:32 -0700"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-08-20 00:34:50 -0700"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_platinum_raw": {
+    "criteria": {
+      "has_ore": "2025-08-20 03:44:05 -0700"
     },
     "done": true
   },
