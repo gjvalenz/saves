@@ -7348,21 +7348,15 @@
     },
     "done": true
   },
-  "ae2:main/facade": {
-    "criteria": {
-      "facade": "2025-08-19 20:52:53 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nuclearcraft_platinum_raw": {
-    "criteria": {
-      "has_ore": "2025-08-20 03:44:05 -0700"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/parts/cable_anchor": {
     "criteria": {
       "has_knife": "2025-08-19 20:51:33 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-08-19 20:52:53 -0700"
     },
     "done": true
   },
@@ -7378,9 +7372,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_platinum_raw": {
+    "criteria": {
+      "has_ore": "2025-08-20 03:44:05 -0700"
+    },
+    "done": true
+  },
   "nuclearcraft:recipes/misc/blast_platinum_raw": {
     "criteria": {
       "has_ore": "2025-08-20 03:44:05 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/filter_mod": {
+    "criteria": {
+      "has_filter_basic": "2025-08-20 23:29:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-08-20 22:59:46 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/filter_nbt": {
+    "criteria": {
+      "has_filter_basic": "2025-08-20 23:29:12 -0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/precise_storage_bus": {
+    "criteria": {
+      "has_item": "2025-08-20 22:59:46 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/storage_bus": {
+    "criteria": {
+      "has_interface": "2025-08-20 22:58:24 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/filter_count": {
+    "criteria": {
+      "has_filter_basic": "2025-08-20 23:29:12 -0700"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_part": {
+    "criteria": {
+      "has_interface": "2025-08-20 22:58:24 -0700"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/network/mega_interface": {
+    "criteria": {
+      "has_interface": "2025-08-20 22:58:24 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/filter_tag": {
+    "criteria": {
+      "has_filter_basic": "2025-08-20 23:29:12 -0700"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/filter_basic_nbtclear": {
+    "criteria": {
+      "has_filter_basic": "2025-08-20 23:29:12 -0700"
     },
     "done": true
   },
