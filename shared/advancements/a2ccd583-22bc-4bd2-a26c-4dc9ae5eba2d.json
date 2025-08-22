@@ -7444,5 +7444,41 @@
     },
     "done": true
   },
+  "nuclearcraft:recipes/misc/blast_niobium_dust": {
+    "criteria": {
+      "has_ore": "2025-08-21 22:22:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_niobium_dust": {
+    "criteria": {
+      "has_ore": "2025-08-21 22:22:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_magnesium_dust": {
+    "criteria": {
+      "has_ore": "2025-08-21 22:22:36 -0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_alt": {
+    "criteria": {
+      "has_item": "2025-08-21 22:52:55 -0700"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp": {
+    "criteria": {
+      "has_item": "2025-08-21 22:52:55 -0700"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_magnesium_dust": {
+    "criteria": {
+      "has_ore": "2025-08-21 22:22:36 -0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
